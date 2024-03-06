@@ -5,3 +5,4 @@
 main code는 hostpc.c파일에 있으며 이 기능을 구현한 함수는 host_cmd.c 파일에 adc_show함수이다.
 
 # 구동 영상
+https://youtube.com/shorts/1yuCeA80G9M
